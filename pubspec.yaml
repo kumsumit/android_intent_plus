@@ -26,6 +26,11 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   test: ^1.12.0
+<<<<<<< HEAD
   mockito: ^5.4.2
   flutter_lints: 
     git: https://github.com/kumsumit/flutter_lints.git
+=======
+  mockito: ^5.4.0
+  flutter_lints: ">=2.0.1 <4.0.0"
+>>>>>>> refs/remotes/origin/main
