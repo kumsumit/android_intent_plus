@@ -1,4 +1,9 @@
 # TODO: Remove this when migrated to null safety
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
 include: package:flutter_lints/flutter.yaml
 
 linter:
